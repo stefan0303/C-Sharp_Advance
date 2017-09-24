@@ -1,0 +1,7 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\StackAndQueues\06.TruckTour\bin\Debug\06.TruckTour.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\06.TruckTour\bin\Debug\06.TruckTour.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\06.TruckTour\bin\Debug\06.TruckTour.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\06.TruckTour\bin\Debug\06.TruckTour.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\06.TruckTour\bin\Debug\06.TruckTour.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\06.TruckTour\obj\Debug\06.TruckTour.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\06.TruckTour\obj\Debug\06.TruckTour.pdb

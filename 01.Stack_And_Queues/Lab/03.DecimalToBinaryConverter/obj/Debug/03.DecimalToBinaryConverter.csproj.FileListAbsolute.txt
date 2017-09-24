@@ -1,0 +1,5 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.pdb

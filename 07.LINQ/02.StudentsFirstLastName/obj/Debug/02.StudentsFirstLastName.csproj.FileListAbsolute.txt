@@ -1,0 +1,18 @@
+c:\users\stefan\Documents\Visual Studio 2013\BuiltQueryMethodsLINQ_ADVance\02.StudentsFirstLastName\bin\Debug\02.StudentsFirstLastName.exe.config
+c:\users\stefan\Documents\Visual Studio 2013\BuiltQueryMethodsLINQ_ADVance\02.StudentsFirstLastName\bin\Debug\02.StudentsFirstLastName.exe
+c:\users\stefan\Documents\Visual Studio 2013\BuiltQueryMethodsLINQ_ADVance\02.StudentsFirstLastName\bin\Debug\02.StudentsFirstLastName.pdb
+c:\users\stefan\Documents\Visual Studio 2013\BuiltQueryMethodsLINQ_ADVance\02.StudentsFirstLastName\obj\Debug\02.StudentsFirstLastName.csprojResolveAssemblyReference.cache
+c:\users\stefan\Documents\Visual Studio 2013\BuiltQueryMethodsLINQ_ADVance\02.StudentsFirstLastName\obj\Debug\02.StudentsFirstLastName.exe
+c:\users\stefan\Documents\Visual Studio 2013\BuiltQueryMethodsLINQ_ADVance\02.StudentsFirstLastName\obj\Debug\02.StudentsFirstLastName.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\02.StudentsFirstLastName\bin\Debug\02.StudentsFirstLastName.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\02.StudentsFirstLastName\obj\Debug\02.StudentsFirstLastName.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\02.StudentsFirstLastName\obj\Debug\02.StudentsFirstLastName.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\02.StudentsFirstLastName\bin\Debug\02.StudentsFirstLastName.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\02.StudentsFirstLastName\bin\Debug\02.StudentsFirstLastName.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\02.StudentsFirstLastName\obj\Debug\02.StudentsFirstLastName.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\02.StudentsFirstLastName\bin\Debug\02.StudentsFirstLastName.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\02.StudentsFirstLastName\obj\Debug\02.StudentsFirstLastName.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\02.StudentsFirstLastName\obj\Debug\02.StudentsFirstLastName.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\02.StudentsFirstLastName\bin\Debug\02.StudentsFirstLastName.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\02.StudentsFirstLastName\obj\Debug\02.StudentsFirstLastName.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\02.StudentsFirstLastName\obj\Debug\02.StudentsFirstLastName.pdb

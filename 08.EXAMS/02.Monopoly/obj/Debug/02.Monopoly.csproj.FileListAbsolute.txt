@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\02.Monopoly\bin\Debug\02.Monopoly.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\02.Monopoly\bin\Debug\02.Monopoly.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\02.Monopoly\bin\Debug\02.Monopoly.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\02.Monopoly\obj\Debug\02.Monopoly.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\02.Monopoly\obj\Debug\02.Monopoly.pdb

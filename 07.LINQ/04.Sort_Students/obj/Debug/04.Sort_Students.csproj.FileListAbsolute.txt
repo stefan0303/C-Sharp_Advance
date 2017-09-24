@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\04.Sort_Students\bin\Debug\04.Sort_Students.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\04.Sort_Students\bin\Debug\04.Sort_Students.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\04.Sort_Students\bin\Debug\04.Sort_Students.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\04.Sort_Students\obj\Debug\04.Sort_Students.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\04.Sort_Students\obj\Debug\04.Sort_Students.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\04.Sort_Students\obj\Debug\04.Sort_Students.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\04.Sort_Students\bin\Debug\04.Sort_Students.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\04.Sort_Students\obj\Debug\04.Sort_Students.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\04.Sort_Students\obj\Debug\04.Sort_Students.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\04.Sort_Students\bin\Debug\04.Sort_Students.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\04.Sort_Students\bin\Debug\04.Sort_Students.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\04.Sort_Students\obj\Debug\04.Sort_Students.csprojResolveAssemblyReference.cache

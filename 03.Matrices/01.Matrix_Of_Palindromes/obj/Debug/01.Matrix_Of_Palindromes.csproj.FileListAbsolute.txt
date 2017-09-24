@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\01.Matrix_Of_Palindromes\bin\Debug\01.Matrix_Of_Palindromes.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\01.Matrix_Of_Palindromes\bin\Debug\01.Matrix_Of_Palindromes.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\01.Matrix_Of_Palindromes\bin\Debug\01.Matrix_Of_Palindromes.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\01.Matrix_Of_Palindromes\obj\Debug\01.Matrix_Of_Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\01.Matrix_Of_Palindromes\obj\Debug\01.Matrix_Of_Palindromes.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\01.Matrix_Of_Palindromes\obj\Debug\01.Matrix_Of_Palindromes.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.pdb

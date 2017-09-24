@@ -1,0 +1,9 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\10.PredicateParty\bin\Debug\10.PredicateParty.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\10.PredicateParty\bin\Debug\10.PredicateParty.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\10.PredicateParty\bin\Debug\10.PredicateParty.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\10.PredicateParty\obj\Debug\10.PredicateParty.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\10.PredicateParty\obj\Debug\10.PredicateParty.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\10.PredicateParty\obj\Debug\10.PredicateParty.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\10.PredicateParty\bin\Debug\10.PredicateParty.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\10.PredicateParty\obj\Debug\10.PredicateParty.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\10.PredicateParty\obj\Debug\10.PredicateParty.pdb

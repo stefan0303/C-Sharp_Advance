@@ -1,0 +1,10 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.SumMatrixElements\02.MaximumSum2x2\bin\Debug\02.MaximumSum2x2.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.SumMatrixElements\02.MaximumSum2x2\bin\Debug\02.MaximumSum2x2.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.SumMatrixElements\02.MaximumSum2x2\bin\Debug\02.MaximumSum2x2.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.SumMatrixElements\02.MaximumSum2x2\obj\Debug\02.MaximumSum2x2.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.SumMatrixElements\02.MaximumSum2x2\obj\Debug\02.MaximumSum2x2.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\Lab\02.MaximumSum2x2\bin\Debug\02.MaximumSum2x2.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\Lab\02.MaximumSum2x2\obj\Debug\02.MaximumSum2x2.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\Lab\02.MaximumSum2x2\obj\Debug\02.MaximumSum2x2.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\Lab\02.MaximumSum2x2\bin\Debug\02.MaximumSum2x2.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\Lab\02.MaximumSum2x2\bin\Debug\02.MaximumSum2x2.pdb

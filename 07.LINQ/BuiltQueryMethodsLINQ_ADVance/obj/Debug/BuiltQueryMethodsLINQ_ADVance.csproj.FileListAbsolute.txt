@@ -1,0 +1,1 @@
+c:\users\stefan\Documents\Visual Studio 2013\BuiltQueryMethodsLINQ_ADVance\BuiltQueryMethodsLINQ_ADVance\bin\Debug\BuiltQueryMethodsLINQ_ADVance.exe.config

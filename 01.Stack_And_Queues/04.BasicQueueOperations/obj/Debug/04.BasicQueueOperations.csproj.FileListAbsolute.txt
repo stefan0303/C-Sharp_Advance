@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\StackAndQueues\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\StackAndQueues\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\StackAndQueues\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\StackAndQueues\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\StackAndQueues\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\StackAndQueues\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.csprojResolveAssemblyReference.cache

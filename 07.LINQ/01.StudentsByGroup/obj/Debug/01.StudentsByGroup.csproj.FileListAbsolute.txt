@@ -1,0 +1,9 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\01.StudentsByGroup\bin\Debug\01.StudentsByGroup.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\01.StudentsByGroup\bin\Debug\01.StudentsByGroup.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\01.StudentsByGroup\bin\Debug\01.StudentsByGroup.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\01.StudentsByGroup\obj\Debug\01.StudentsByGroup.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\01.StudentsByGroup\obj\Debug\01.StudentsByGroup.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\01.StudentsByGroup\obj\Debug\01.StudentsByGroup.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\01.StudentsByGroup\bin\Debug\01.StudentsByGroup.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\01.StudentsByGroup\obj\Debug\01.StudentsByGroup.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\01.StudentsByGroup\obj\Debug\01.StudentsByGroup.pdb

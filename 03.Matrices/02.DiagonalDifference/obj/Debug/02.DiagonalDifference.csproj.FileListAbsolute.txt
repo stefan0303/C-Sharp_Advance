@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.Matrix-Polindromes\02.DiagonalDifference\bin\Debug\02.DiagonalDifference.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.Matrix-Polindromes\02.DiagonalDifference\bin\Debug\02.DiagonalDifference.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.Matrix-Polindromes\02.DiagonalDifference\bin\Debug\02.DiagonalDifference.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.Matrix-Polindromes\02.DiagonalDifference\obj\Debug\02.DiagonalDifference.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.Matrix-Polindromes\02.DiagonalDifference\obj\Debug\02.DiagonalDifference.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Matrices\Lab-Matrices\01.Matrix-Polindromes\02.DiagonalDifference\obj\Debug\02.DiagonalDifference.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\02.DiagonalDifference\bin\Debug\02.DiagonalDifference.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\02.DiagonalDifference\obj\Debug\02.DiagonalDifference.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\02.DiagonalDifference\obj\Debug\02.DiagonalDifference.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\02.DiagonalDifference\bin\Debug\02.DiagonalDifference.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\02.DiagonalDifference\bin\Debug\02.DiagonalDifference.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\02.DiagonalDifference\obj\Debug\02.DiagonalDifference.csprojResolveAssemblyReference.cache

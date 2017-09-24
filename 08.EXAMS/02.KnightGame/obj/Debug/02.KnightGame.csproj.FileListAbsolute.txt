@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\02.KnightGame\bin\Debug\02.KnightGame.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\02.KnightGame\bin\Debug\02.KnightGame.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\02.KnightGame\bin\Debug\02.KnightGame.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\02.KnightGame\obj\Debug\02.KnightGame.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\02.KnightGame\obj\Debug\02.KnightGame.pdb

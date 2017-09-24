@@ -1,0 +1,8 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\02.SumNumbers\bin\Debug\02.SumNumbers.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\02.SumNumbers\bin\Debug\02.SumNumbers.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\02.SumNumbers\bin\Debug\02.SumNumbers.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\02.SumNumbers\obj\Debug\02.SumNumbers.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\02.SumNumbers\obj\Debug\02.SumNumbers.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\02.SumNumbers\bin\Debug\02.SumNumbers.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\02.SumNumbers\obj\Debug\02.SumNumbers.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\02.SumNumbers\obj\Debug\02.SumNumbers.pdb

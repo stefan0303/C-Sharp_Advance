@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\08.Weak_Students\bin\Debug\08.Weak_Students.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\08.Weak_Students\obj\Debug\08.Weak_Students.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\08.Weak_Students\obj\Debug\08.Weak_Students.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\08.Weak_Students\bin\Debug\08.Weak_Students.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\08.Weak_Students\bin\Debug\08.Weak_Students.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\08.Weak_Students\obj\Debug\08.Weak_Students!!!Nemoga.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\08.Weak_Students\bin\Debug\08.Weak_Students.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\08.Weak_Students\obj\Debug\08.Weak_Students.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\08.Weak_Students\obj\Debug\08.Weak_Students.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\08.Weak_Students\bin\Debug\08.Weak_Students.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\08.Weak_Students\bin\Debug\08.Weak_Students.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\08.Weak_Students\obj\Debug\08.Weak_Students!!!Nemoga.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\08.Weak_Students\bin\Debug\08.Weak_Students.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\08.Weak_Students\obj\Debug\08.Weak_Students.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\08.Weak_Students\obj\Debug\08.Weak_Students.pdb

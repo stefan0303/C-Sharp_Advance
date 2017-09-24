@@ -1,0 +1,10 @@
+1. Stela    | Mineva   | Java
+2. Yasen    | Ivanov   | C#
+3. Stefka   | Nikolova | SQL
+4. Miroslav | Tsenov   | SQL
+5. Milena   | Petrova  | C#
+6. Asya     | Yankova  | SQL
+7. Ivan     | Grigorov | C#
+8. Ivan     | Kolev    | SQL
+9. Vanya    | Angelova | Java
+10. Todor    | Georgiev | SQL

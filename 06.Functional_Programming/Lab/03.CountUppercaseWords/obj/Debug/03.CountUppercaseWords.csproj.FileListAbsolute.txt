@@ -1,0 +1,9 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.pdb

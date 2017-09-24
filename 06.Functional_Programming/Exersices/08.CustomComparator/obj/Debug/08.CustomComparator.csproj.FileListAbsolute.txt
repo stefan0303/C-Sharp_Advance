@@ -1,0 +1,2 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\08.CustomComparator\bin\Debug\08.CustomComparator.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\08.CustomComparator\bin\Debug\08.CustomComparator.exe.config

@@ -1,0 +1,12 @@
+c:\users\stefan\documents\visual studio 2013\Projects\Sets And Dictionaries\05.Phonebook\bin\Debug\05.Phonebook.exe.config
+c:\users\stefan\documents\visual studio 2013\Projects\Sets And Dictionaries\05.Phonebook\bin\Debug\05.Phonebook.exe
+c:\users\stefan\documents\visual studio 2013\Projects\Sets And Dictionaries\05.Phonebook\bin\Debug\05.Phonebook.pdb
+c:\users\stefan\documents\visual studio 2013\Projects\Sets And Dictionaries\05.Phonebook\obj\Debug\05.Phonebook.exe
+c:\users\stefan\documents\visual studio 2013\Projects\Sets And Dictionaries\05.Phonebook\obj\Debug\05.Phonebook.pdb
+c:\users\stefan\documents\visual studio 2013\Projects\Sets And Dictionaries\05.Phonebook\obj\Debug\05.Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\05.Phonebook\bin\Debug\05.Phonebook.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\05.Phonebook\obj\Debug\05.Phonebook.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\05.Phonebook\obj\Debug\05.Phonebook.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\05.Phonebook\bin\Debug\05.Phonebook.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\05.Phonebook\bin\Debug\05.Phonebook.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\05.Phonebook\obj\Debug\05.Phonebook.csprojResolveAssemblyReference.cache

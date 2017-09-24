@@ -1,0 +1,9 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\05.FilterByAge\bin\Debug\05.FilterByAge.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\05.FilterByAge\bin\Debug\05.FilterByAge.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\05.FilterByAge\bin\Debug\05.FilterByAge.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\05.FilterByAge\obj\Debug\05.FilterByAge.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\05.FilterByAge\obj\Debug\05.FilterByAge.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\05.FilterByAge\obj\Debug\05.FilterByAge.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\05.FilterByAge\bin\Debug\05.FilterByAge.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\05.FilterByAge\obj\Debug\05.FilterByAge.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\05.FilterByAge\obj\Debug\05.FilterByAge.pdb

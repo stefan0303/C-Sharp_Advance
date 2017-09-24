@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.pdb

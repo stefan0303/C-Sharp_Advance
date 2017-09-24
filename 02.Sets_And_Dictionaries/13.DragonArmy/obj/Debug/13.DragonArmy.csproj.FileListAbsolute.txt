@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\13.DragonArmy\bin\Debug\13.DragonArmy.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\13.DragonArmy\bin\Debug\13.DragonArmy.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\13.DragonArmy\bin\Debug\13.DragonArmy.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\13.DragonArmy\obj\Debug\13.DragonArmy.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\13.DragonArmy\obj\Debug\13.DragonArmy.pdb

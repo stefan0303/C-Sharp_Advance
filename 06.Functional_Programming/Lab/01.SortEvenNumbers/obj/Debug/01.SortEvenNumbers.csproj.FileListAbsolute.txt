@@ -1,0 +1,1 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\01.SortEvenNumbers\bin\Debug\01.SortEvenNumbers.exe.config

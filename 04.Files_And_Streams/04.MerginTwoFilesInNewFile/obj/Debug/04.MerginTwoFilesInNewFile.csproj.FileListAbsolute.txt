@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\04.MerginTwoFilesInNewFile\bin\Debug\04.MerginTwoFilesInNewFile.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\04.MerginTwoFilesInNewFile\bin\Debug\04.MerginTwoFilesInNewFile.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\04.MerginTwoFilesInNewFile\bin\Debug\04.MerginTwoFilesInNewFile.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\04.MerginTwoFilesInNewFile\obj\Debug\04.MerginTwoFilesInNewFile.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\04.MerginTwoFilesInNewFile\obj\Debug\04.MerginTwoFilesInNewFile.pdb

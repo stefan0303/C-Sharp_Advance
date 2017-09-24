@@ -1,0 +1,8 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\04.ReplaceAtag\bin\Debug\04.ReplaceAtag.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\04.ReplaceAtag\bin\Debug\04.ReplaceAtag.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\04.ReplaceAtag\bin\Debug\04.ReplaceAtag.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\04.ReplaceAtag\obj\Debug\04.ReplaceAtag.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\04.ReplaceAtag\obj\Debug\04.ReplaceAtag.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\04.ReplaceAtag\bin\Debug\04.ReplaceAtag.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\04.ReplaceAtag\obj\Debug\04.ReplaceAtag.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\04.ReplaceAtag\obj\Debug\04.ReplaceAtag.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\09.Stack_Fibonacci\bin\Debug\09.Stack_Fibonacci.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\09.Stack_Fibonacci\bin\Debug\09.Stack_Fibonacci.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\09.Stack_Fibonacci\bin\Debug\09.Stack_Fibonacci.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\09.Stack_Fibonacci\obj\Debug\09.Stack_Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\09.Stack_Fibonacci\obj\Debug\09.Stack_Fibonacci.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\09.Stack_Fibonacci\obj\Debug\09.Stack_Fibonacci.pdb

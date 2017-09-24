@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Exams_Advance_C_sharp\04.Hospital\bin\Debug\04.Hospital.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\04.Hospital\bin\Debug\04.Hospital.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\04.Hospital\bin\Debug\04.Hospital.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\04.Hospital\bin\Debug\04.Hospital.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\04.Hospital\obj\Debug\04.Hospital.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\04.Hospital\obj\Debug\04.Hospital.pdb

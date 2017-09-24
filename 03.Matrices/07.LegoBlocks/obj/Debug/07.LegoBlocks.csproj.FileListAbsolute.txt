@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\07.LegoBlocks\bin\Debug\07.LegoBlocks.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\07.LegoBlocks\bin\Debug\07.LegoBlocks.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\07.LegoBlocks\bin\Debug\07.LegoBlocks.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\07.LegoBlocks\obj\Debug\07.LegoBlocks.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\03.Matrices\07.LegoBlocks\obj\Debug\07.LegoBlocks.pdb

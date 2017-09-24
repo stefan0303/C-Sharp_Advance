@@ -1,0 +1,8 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.pdb

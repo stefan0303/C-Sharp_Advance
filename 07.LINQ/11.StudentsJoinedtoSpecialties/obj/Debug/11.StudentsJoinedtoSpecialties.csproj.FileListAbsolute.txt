@@ -1,0 +1,9 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\11.StudentsJoinedtoSpecialties\bin\Debug\11.StudentsJoinedtoSpecialties.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\11.StudentsJoinedtoSpecialties\bin\Debug\11.StudentsJoinedtoSpecialties.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\11.StudentsJoinedtoSpecialties\bin\Debug\11.StudentsJoinedtoSpecialties.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\11.StudentsJoinedtoSpecialties\obj\Debug\11.StudentsJoinedtoSpecialties.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\11.StudentsJoinedtoSpecialties\obj\Debug\11.StudentsJoinedtoSpecialties.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\11.StudentsJoinedtoSpecialties\obj\Debug\11.StudentsJoinedtoSpecialties.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\11.StudentsJoinedtoSpecialties\bin\Debug\11.StudentsJoinedtoSpecialties.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\11.StudentsJoinedtoSpecialties\obj\Debug\11.StudentsJoinedtoSpecialties.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\11.StudentsJoinedtoSpecialties\obj\Debug\11.StudentsJoinedtoSpecialties.pdb

@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Exams_Advance_C_sharp\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Exams_Advance_C_sharp\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Exams_Advance_C_sharp\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Exams_Advance_C_sharp\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Exams_Advance_C_sharp\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Exams_Advance_C_sharp\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.csprojResolveAssemblyReference.cache

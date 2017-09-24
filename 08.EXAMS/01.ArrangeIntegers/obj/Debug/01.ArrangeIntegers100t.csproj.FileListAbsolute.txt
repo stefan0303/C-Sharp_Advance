@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Exams_Advance_C_sharp\01.ArrangeIntegers\bin\Debug\01.ArrangeIntegers.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Exams_Advance_C_sharp\01.ArrangeIntegers\obj\Debug\01.ArrangeIntegers.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\Exams_Advance_C_sharp\01.ArrangeIntegers\obj\Debug\01.ArrangeIntegers.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\01.ArrangeIntegers\bin\Debug\01.ArrangeIntegers.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\01.ArrangeIntegers\obj\Debug\01.ArrangeIntegers.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\08.EXAMS\01.ArrangeIntegers\obj\Debug\01.ArrangeIntegers.pdb

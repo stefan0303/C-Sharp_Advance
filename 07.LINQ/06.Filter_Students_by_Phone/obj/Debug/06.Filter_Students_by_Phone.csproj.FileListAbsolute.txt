@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\06.Filter_Students_by_Phone\bin\Debug\06.Filter_Students_by_Phone.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\06.Filter_Students_by_Phone\bin\Debug\06.Filter_Students_by_Phone.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\06.Filter_Students_by_Phone\bin\Debug\06.Filter_Students_by_Phone.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\06.Filter_Students_by_Phone\obj\Debug\06.Filter_Students_by_Phone.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\06.Filter_Students_by_Phone\obj\Debug\06.Filter_Students_by_Phone.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\06.Filter_Students_by_Phone\obj\Debug\06.Filter_Students_by_Phone.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\06.Filter_Students_by_Phone\bin\Debug\06.Filter_Students_by_Phone.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\06.Filter_Students_by_Phone\obj\Debug\06.Filter_Students_by_Phone.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\06.Filter_Students_by_Phone\obj\Debug\06.Filter_Students_by_Phone.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\06.Filter_Students_by_Phone\bin\Debug\06.Filter_Students_by_Phone.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\06.Filter_Students_by_Phone\obj\Debug\06.Filter_Students_by_Phone.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\06.Filter_Students_by_Phone\obj\Debug\06.Filter_Students_by_Phone.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\06.Timer\bin\Debug\06.Timer.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\06.Timer\bin\Debug\06.Timer.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\06.Timer\bin\Debug\06.Timer.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\06.Timer\obj\Debug\06.Timer.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\06.Timer\obj\Debug\06.Timer.pdb
