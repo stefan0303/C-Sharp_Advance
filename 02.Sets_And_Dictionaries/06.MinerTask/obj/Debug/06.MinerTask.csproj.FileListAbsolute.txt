@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\06.MinerTask\bin\Debug\06.MinerTask.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\06.MinerTask\bin\Debug\06.MinerTask.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\06.MinerTask\bin\Debug\06.MinerTask.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\06.MinerTask\obj\Debug\06.MinerTask.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\06.MinerTask\obj\Debug\06.MinerTask.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\06.MinerTask\obj\Debug\06.MinerTask.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\06.MinerTask\bin\Debug\06.MinerTask.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\06.MinerTask\obj\Debug\06.MinerTask.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\06.MinerTask\obj\Debug\06.MinerTask.pdb

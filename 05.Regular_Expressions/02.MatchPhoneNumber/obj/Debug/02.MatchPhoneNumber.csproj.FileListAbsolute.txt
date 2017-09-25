@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.pdb

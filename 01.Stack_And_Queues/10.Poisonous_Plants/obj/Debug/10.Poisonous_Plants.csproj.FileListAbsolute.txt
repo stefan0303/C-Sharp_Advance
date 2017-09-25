@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\10.Poisonous_Plants\bin\Debug\10.Poisonous_Plants.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\10.Poisonous_Plants\bin\Debug\10.Poisonous_Plants.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\10.Poisonous_Plants\bin\Debug\10.Poisonous_Plants.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\10.Poisonous_Plants\obj\Debug\10.Poisonous_Plants.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\10.Poisonous_Plants\obj\Debug\10.Poisonous_Plants.pdb

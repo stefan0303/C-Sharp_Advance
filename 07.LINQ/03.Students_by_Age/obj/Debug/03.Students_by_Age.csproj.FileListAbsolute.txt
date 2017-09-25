@@ -1,8 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\03.Students_by_Age\bin\Debug\03.Students_by_Age.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\03.Students_by_Age\bin\Debug\03.Students_by_Age.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\03.Students_by_Age\bin\Debug\03.Students_by_Age.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\03.Students_by_Age\obj\Debug\03.Students_by_Age.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\LINQ_ADVanceBuiltQueryMethods\03.Students_by_Age\obj\Debug\03.Students_by_Age.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\03.Students_by_Age\bin\Debug\03.Students_by_Age.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\03.Students_by_Age\obj\Debug\03.Students_by_Age.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\03.Students_by_Age\obj\Debug\03.Students_by_Age.pdb

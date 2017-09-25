@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\10.GroupByGroup\bin\Debug\10.GroupByGroup.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\10.GroupByGroup\obj\Debug\10.GroupByGroup.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\10.GroupByGroup\obj\Debug\10.GroupByGroup.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\LINQ\LinqExercises\10.GroupByGroup\obj\Debug\10.GroupByGroup.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\07.LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.pdb

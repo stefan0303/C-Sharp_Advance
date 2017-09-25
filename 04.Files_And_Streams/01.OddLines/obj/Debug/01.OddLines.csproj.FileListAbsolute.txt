@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\01.OddLines\bin\Debug\01.OddLines.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\01.OddLines\bin\Debug\01.OddLines.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\01.OddLines\bin\Debug\01.OddLines.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\01.OddLines\obj\Debug\01.OddLines.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\01.OddLines\obj\Debug\01.OddLines.pdb

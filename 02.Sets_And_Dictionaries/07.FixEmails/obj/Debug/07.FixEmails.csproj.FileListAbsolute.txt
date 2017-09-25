@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\07.FixEmails\bin\Debug\07.FixEmails.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\07.FixEmails\obj\Debug\07.FixEmails.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\07.FixEmails\bin\Debug\07.FixEmails.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\07.FixEmails\bin\Debug\07.FixEmails.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\07.FixEmails\obj\Debug\07.FixEmails.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Sets And Dictionaries\07.FixEmails\obj\Debug\07.FixEmails.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\07.FixEmails\bin\Debug\07.FixEmails.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\07.FixEmails\obj\Debug\07.FixEmails.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\07.FixEmails\obj\Debug\07.FixEmails.pdb

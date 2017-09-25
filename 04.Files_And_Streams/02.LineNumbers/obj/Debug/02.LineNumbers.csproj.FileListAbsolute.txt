@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\02.LineNumbers\bin\Debug\02.LineNumbers.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\02.LineNumbers\obj\Debug\02.LineNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\02.LineNumbers\obj\Debug\02.LineNumbers.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

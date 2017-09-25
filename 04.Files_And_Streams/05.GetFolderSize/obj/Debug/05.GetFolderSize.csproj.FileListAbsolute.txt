@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\05.GetFolderSize\bin\Debug\05.GetFolderSize.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\05.GetFolderSize\bin\Debug\05.GetFolderSize.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\05.GetFolderSize\bin\Debug\05.GetFolderSize.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\05.GetFolderSize\obj\Debug\05.GetFolderSize.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\04.Files_And_Streams\05.GetFolderSize\obj\Debug\05.GetFolderSize.pdb

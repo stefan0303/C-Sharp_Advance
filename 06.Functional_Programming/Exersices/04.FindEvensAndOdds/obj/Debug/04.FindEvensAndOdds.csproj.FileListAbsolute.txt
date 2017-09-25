@@ -1,1 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\04.FindEvensAndOdds\bin\Debug\04.FindEvensAndOdds.exe.config

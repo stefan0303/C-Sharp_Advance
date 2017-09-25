@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\01.MatchFullName\bin\Debug\01.MatchFullName.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\01.MatchFullName\bin\Debug\01.MatchFullName.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\01.MatchFullName\bin\Debug\01.MatchFullName.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\01.MatchFullName\obj\Debug\01.MatchFullName.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\01.MatchFullName\obj\Debug\01.MatchFullName.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\RegilarExpressions\ExersicesRegularExpressions\ExersicesRegex\01.MatchFullName\obj\Debug\01.MatchFullName.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\01.MatchFullName\bin\Debug\01.MatchFullName.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\01.MatchFullName\obj\Debug\01.MatchFullName.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\01.MatchFullName\obj\Debug\01.MatchFullName.pdb

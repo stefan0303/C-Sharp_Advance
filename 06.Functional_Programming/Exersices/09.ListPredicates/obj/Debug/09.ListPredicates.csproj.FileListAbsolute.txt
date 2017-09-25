@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\09.ListPredicates\bin\Debug\09.ListPredicates.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\09.ListPredicates\bin\Debug\09.ListPredicates.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\09.ListPredicates\bin\Debug\09.ListPredicates.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\09.ListPredicates\obj\Debug\09.ListPredicates.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\09.ListPredicates\obj\Debug\09.ListPredicates.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\09.ListPredicates\obj\Debug\09.ListPredicates.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\09.ListPredicates\bin\Debug\09.ListPredicates.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\09.ListPredicates\obj\Debug\09.ListPredicates.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\09.ListPredicates\obj\Debug\09.ListPredicates.pdb

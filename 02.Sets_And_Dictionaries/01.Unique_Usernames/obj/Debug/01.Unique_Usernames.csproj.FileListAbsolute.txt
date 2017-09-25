@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\01.Unique_Usernames\bin\Debug\01.Unique_Usernames.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\01.Unique_Usernames\bin\Debug\01.Unique_Usernames.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\01.Unique_Usernames\bin\Debug\01.Unique_Usernames.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\01.Unique_Usernames\obj\Debug\01.Unique_Usernames.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\01.Unique_Usernames\obj\Debug\01.Unique_Usernames.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\02.Sets_And_Dictionaries\01.Unique_Usernames\obj\Debug\01.Unique_Usernames.pdb

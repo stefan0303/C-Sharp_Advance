@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\05.HotPotato\bin\Debug\05.HotPotato.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\05.HotPotato\bin\Debug\05.HotPotato.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\05.HotPotato\bin\Debug\05.HotPotato.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\05.HotPotato\obj\Debug\05.HotPotato.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\05.HotPotato\obj\Debug\05.HotPotato.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\StackAndQueues\Lab\Lab\05.HotPotato\obj\Debug\05.HotPotato.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\Lab\05.HotPotato\bin\Debug\05.HotPotato.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\Lab\05.HotPotato\obj\Debug\05.HotPotato.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\01.Stack_And_Queues\Lab\05.HotPotato\obj\Debug\05.HotPotato.pdb

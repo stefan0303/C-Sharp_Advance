@@ -1,2 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Lab\01.SortEvenNumbers\04.AddVat\bin\Debug\04.AddVat.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Lab\04.AddVat\bin\Debug\04.AddVat.exe.config

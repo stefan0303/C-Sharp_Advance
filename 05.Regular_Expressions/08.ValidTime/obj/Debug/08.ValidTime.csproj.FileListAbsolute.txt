@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\08.ValidTime\bin\Debug\08.ValidTime.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\08.ValidTime\bin\Debug\08.ValidTime.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\08.ValidTime\bin\Debug\08.ValidTime.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\08.ValidTime\obj\Debug\08.ValidTime.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\08.ValidTime\obj\Debug\08.ValidTime.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\08.ValidTime\obj\Debug\08.ValidTime.pdb

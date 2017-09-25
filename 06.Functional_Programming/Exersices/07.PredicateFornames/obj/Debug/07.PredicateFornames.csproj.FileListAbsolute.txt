@@ -1,8 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\07.PredicateFornames\bin\Debug\07.PredicateFornames.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\07.PredicateFornames\bin\Debug\07.PredicateFornames.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\07.PredicateFornames\bin\Debug\07.PredicateFornames.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\07.PredicateFornames\obj\Debug\07.PredicateFornames.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\07.PredicateFornames\obj\Debug\07.PredicateFornames.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\07.PredicateFornames\bin\Debug\07.PredicateFornames.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\07.PredicateFornames\obj\Debug\07.PredicateFornames.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\07.PredicateFornames\obj\Debug\07.PredicateFornames.pdb

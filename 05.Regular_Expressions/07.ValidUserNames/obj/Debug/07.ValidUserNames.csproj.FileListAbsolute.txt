@@ -1,1 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\05.Regular_Expressions\07.ValidUserNames\bin\Debug\07.ValidUserNames.exe.config

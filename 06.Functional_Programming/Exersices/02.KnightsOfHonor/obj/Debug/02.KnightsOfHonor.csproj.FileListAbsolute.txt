@@ -1,8 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\C#-Advance-2017\FunctionalProgramming\Exersices\Functional_Programming_Exer\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.C# Advance\06.Functional_Programming\Exersices\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.pdb
